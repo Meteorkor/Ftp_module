@@ -1,0 +1,15 @@
+[16:51:41]li
+--
+[16:51:41]/
+--
+[16:51:41]C:/com/ftp/indexc_76 - 복사본.gif : 전송 시작
+--
+[16:51:41]C:/com/ftp/indexc_76 - 복사본.gif : 전송 결과 true
+--
+[16:51:41]C:/com/ftp/indexc_76.gif : 전송 시작
+--
+[16:51:41]C:/com/ftp/indexc_76.gif : 전송 결과 true
+--
+[16:51:41]C:/com/ftp/index_76.gif : 전송 시작
+--
+[16:51:41]C:/com/ftp/index_76.gif : 전송 결과 true
